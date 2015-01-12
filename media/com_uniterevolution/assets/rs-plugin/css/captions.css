@@ -1,0 +1,96 @@
+.tp-caption.rev-slider-button {
+	font-size:55px;
+	font-weight:300;
+	color:#ffffff;
+}
+
+.tp-caption.rev-slider-title {
+	font-size:68px;
+	font-weight:300;
+	color:#ffffff;
+	line-height: 50px;
+	padding-top: 18px;
+	background: rgba(205, 58, 39, .6);
+}
+
+.tp-caption.rev-slider-title-nobackground {
+	font-size:68px;
+	font-weight:300;
+	color:#ffffff;
+	line-height: 50px;
+	padding-top: 18px;
+	/*background: rgba(205, 58, 39, .6);*/
+}
+
+
+.tp-caption.rev-thin-title {
+	font-size:31px;
+	font-weight:300;
+	color:#696968;
+}
+
+
+.tp-caption.rev-bthin-title {
+	font-size:31px;
+	font-weight:300;
+	color:#696968;
+}
+
+
+.tp-caption.rev-bold-title {
+	font-size:28px;
+	font-weight:700;
+	color:#f2836b;
+}
+
+
+.tp-caption.rev-mbold-title {
+	font-size:14px;
+	font-weight:600;
+	color:#f2836b;
+}
+
+
+.tp-caption.rev-p {
+	font-size:13px;
+	line-height:24px;
+	font-weight:300;
+	color:#727272;
+}
+
+
+.tp-caption.rev-text-box {
+	font-size:16px;
+	font-weight:300;
+	color:#fff;
+	padding:5px 30px;
+	background-color:#7d7d7d;
+}
+.tp-caption.rev-button{
+
+}
+.tp-caption.rev-button-2{
+
+}
+.tp-caption.boxshadow{
+		-moz-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+		-webkit-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+		box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+	}
+											
+.tp-caption.black{
+		color: #000; 
+		text-shadow: none;		
+	}	
+					
+.tp-caption.noshadow {
+		text-shadow: none;		
+	}	
+					
+.tp-caption a { 
+	color: #ff7302; text-shadow: none;	-webkit-transition: all 0.2s ease-out; -moz-transition: all 0.2s ease-out; -o-transition: all 0.2s ease-out; -ms-transition: all 0.2s ease-out;	 
+}			
+	
+.tp-caption a:hover { 
+	color: #ffa902; 
+}

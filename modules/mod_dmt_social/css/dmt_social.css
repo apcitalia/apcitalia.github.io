@@ -1,0 +1,107 @@
+.dmt-social-links {
+	padding: 9px 0 0;/* Room for the hover effect */
+	margin: 0;
+	overflow: hidden;
+}
+
+.dmt-social-links li {
+	float: left;
+	line-height: 0;
+	list-style-type: none;
+	margin: 0 4px 4px 0;
+}
+
+.dmt-icons-32 li {
+	margin: 0 8px 8px 0;
+}
+
+.dmt-social-links li:last-child {
+	margin-right: 0;
+}
+
+.dmt-social-links li a {
+	display: inline-block;
+	background: 0;
+}
+
+.dmt-social-links li a.icon16 {
+	height: 22px;
+	width: 22px;
+}
+
+.dmt-social-links li a.icon32 {
+	height: 32px;
+	width: 32px;
+}
+
+.dmt-social-links img {
+	border: 0;
+	padding: 0;
+	margin: 0;
+}
+
+
+//first layer of social icons begin
+.dmt-social-links li.facebook a {
+	background: url(../icons/facebook_16_grey.png);
+}
+
+.dmt-social-links li.twitter a {
+	background: url(../icons/twitter_16_grey.png);
+}
+
+.dmt-social-links li.google_wave a {
+	background: url(../icons/google_wave_16_grey.png);
+}
+
+.dmt-social-links li.linkedin a {
+	background: url(../icons/linkedin_16_grey.png);
+}
+
+.dmt-social-links li.youtube a {
+	background: url(../icons/youtube_16_grey.png);
+}
+
+//first layer of social icons end
+
+
+#footer .dmt-social-links li.facebook a {
+	background: url(../icons/facebook_16_dark.png);
+}
+
+#footer .dmt-social-links li.twitter a {
+	background: url(../icons/twitter_16_dark.png);
+}
+
+#footer .dmt-social-links li.google_wave a {
+	background: url(../icons/google_wave_16_dark.png);
+}
+
+#footer .dmt-social-links li.linkedin a {
+	background: url(../icons/linkedin_16_dark.png);
+}
+
+#footer .dmt-social-links li.youtube a {
+	background: url(../icons/youtube_16_dark.png);
+}
+
+.dmt-social-links a img {
+	visibility: hidden;
+}
+
+.dmt-social-links a:hover img {
+	visibility: visible;
+	
+	transition-property: 				visibility;
+	transition-duration: 				0.2s;
+	transition-timing-function: 		linear;
+	-moz-transition-property: 			visibility;
+	-moz-transition-duration: 			0.2s;
+	-moz-transition-timing-function: 	linear;
+	-webkit-transition-property: 		visibility;
+	-webkit-transition-duration: 		0.2s;
+	-webkit-transition-timing-function: linear;
+	-o-transition-property: 			visibility;
+	-o-transition-duration: 			0.2s;
+	-o-transition-timing-function: 		linear;
+}
