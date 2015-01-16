@@ -1,0 +1,28 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 16, 2015, 5:41:16 PM
+    Author     : hanjing
+*/
+
+
+// this it to define every title style
+.section-title-text h2{
+}
+
+.section-title-text span{
+    margin-left: 60; 
+    font-size: 20px;
+}
+
+.section-title h2{
+    background: #8C868A;
+    height:3px;
+    width:100%;
+    display:inline-block;
+    vertical-align:middle;
+    margin-bottom: 60px;
+}
