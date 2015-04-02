@@ -579,7 +579,7 @@ and open the template in the editor.
                                     <!-- Immagine -->
                                     <div class="col-lg-4 testimonial-right-column">
                                         <div class="testimonial-image-container">
-                                            <img src="images/founder/majun.jpg" alt="" class="testimonial-image"/>
+                                            <img src="images/founder/antonioli.png" alt="" class="testimonial-image"/>
                                         </div>
                                     </div>
 
@@ -600,7 +600,7 @@ and open the template in the editor.
                                     <!-- Immagine -->
                                     <div class="col-lg-4 testimonial-right-column">
                                         <div class="testimonial-image-container">
-                                            <img src="cv/professional/shilei.jpg" alt="" class="testimonial-image"/>
+                                            <img src="images/founder/alex.jpg" alt="" class="testimonial-image"/>
                                         </div>
                                     </div>
 
@@ -612,7 +612,7 @@ and open the template in the editor.
                                         <!-- Deascrizione -->
                                         <div class="testimonial-description">
                                             <p>中国大陆市场负责人，资深经纪人</p>
-                                            <p>公司</p>
+                                            <p>丰富的欧洲生活经历和工作经验</p>
                                         </div>
                                     </div>
                                 </a>
@@ -621,19 +621,19 @@ and open the template in the editor.
                                     <!-- Immagine -->
                                     <div class="col-lg-4 testimonial-right-column">
                                         <div class="testimonial-image-container">
-                                            <img src="cv/professional/shilei.jpg" alt="" class="testimonial-image"/>
+                                            <img src="images/founder/cristiamo.png" alt="" class="testimonial-image"/>
                                         </div>
                                     </div>
 
                                     <div class="col-lg-8 col-sm-8 testimonial-content">
                                         <!-- Titolo -->
                                         <div>
-                                            <p class="testimonial-title testimonial-text-align">GIAMPIERO ANTONIOLI</p>
+                                            <p class="testimonial-title testimonial-text-align">Betti cristiamo (柏迪·克里斯迪安罗)</p>
                                         </div>
                                         <!-- Deascrizione -->
                                         <div class="testimonial-description">
-                                            <p>职位</p>
-                                            <p>公司</p>
+                                            <p>意大利著名资深会计师</p>
+                                            <p>拥有20多年工作经验，通晓意大利各种财务法规和制度</p>
                                         </div>
                                     </div>
                                 </a>
@@ -712,7 +712,7 @@ and open the template in the editor.
                                     <div class="blg-img-box" style="width: 90%; height: auto;">
                                         <a href="/tianjin-haiwailianyihui-liujinquan.html"> <img
                                                 src="images/mainPageEventGallery/main_page_2.jpg"
-                                                alt="天津滨海高新技术产业开发区召开投资与人才交流会" style="width: 100%; height: auto;">
+                                                alt="投资与移民交流活动" style="width: 100%; height: auto;">
                                         </a> 
                                     </div>
                                     <div class="editions-legend clearfix" style="width: 90%; height: auto;">
@@ -744,7 +744,7 @@ and open the template in the editor.
                                     <div class="blg-img-box" style="width: 90%; height: auto;">
                                         <a href="/tianjin-2014.html"><img
                                                 src="images/mainPageEventGallery/main_page_4.jpg"
-                                                alt="天津滨海高新技术产业开发区召开投资与人才交流会" style="width: 100%; height: auto;">
+                                                alt="投资与移民交流活动" style="width: 100%; height: auto;">
                                         </a>
                                     </div>
                                     <div class="editions-legend clearfix" style="width: 90%; height: auto;">
