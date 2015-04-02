@@ -595,7 +595,8 @@ and open the template in the editor.
                                         </div>
                                     </div>
                                 </a>
-                            </div>                        <div class="col-lg-3 col-sm-3 item">
+                            </div>                        
+                            <div class="col-lg-3 col-sm-3 item">
                                 <a href="" target="_blank" alt="">
                                     <!-- Immagine -->
                                     <div class="col-lg-4 testimonial-right-column">
@@ -669,13 +670,19 @@ and open the template in the editor.
 
                         <div class="col-lg-3 col-sm-3 item ">
                             <a href="http://www./" target="_blank">
-                                <img class="img-responsive" src="images/supporter/iceps" alt="" style="float: left; margin-right: 30px; padding-top: 5px;" /></a>
+                                <img class="img-responsive" src="images/kaiFaShang/granvela.png" alt="" style="float: left; margin-right: 30px; padding-top: 5px;" /></a>
                         </div>
-                        <div class="col-lg-6 col-sm-6 item ">
+                                   <div class="col-lg-1 col-sm-1 item ">
                             <a href="http://www./" target="_blank">
-                                <img class="img-responsive" src="images/supporter/hqitaly" alt="" style="float: left; margin-right: 30px; padding-top: 5px;" /></a>
+                        </div>
+                        <div class="col-lg-4 col-sm-4 item ">
+                            <a href="http://www./" target="_blank">
+                                <img class="img-responsive" src="images/kaiFaShang/santeodor.jpg" alt="" style="float: left; margin-right: 30px; padding-top: 5px;" /></a>
                         </div>  
-
+                        <div class="col-lg-4 col-sm-4 item ">
+                            <a href="http://www./" target="_blank">
+                                <img class="img-responsive" src="images/kaiFaShang/coinvest.png" alt="" style="float: left; margin-right: 30px; padding-top: 5px;" /></a>
+                        </div>  
 
                         <div class="clr" style="margin:20px"></div>
 
