@@ -10,15 +10,17 @@
 	color:#ffffff;
 	line-height: 50px;
 	padding-top: 18px;
-	background: rgba(205, 58, 39, .6);
+	background: #8B8989;
 }
 
 .tp-caption.rev-slider-title-nobackground {
 	font-size:68px;
 	font-weight:300;
 	color:#ffffff;
-	line-height: 50px;
-	padding-top: 18px;
+	line-height: 90px;
+	padding-top: 1px;
+        //background: #8d8d8d;
+
 	/*background: rgba(205, 58, 39, .6);*/
 }
 

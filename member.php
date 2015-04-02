@@ -4,7 +4,7 @@
       xmlns="http://www.w3.org/1999/xhtml" xml:lang="it-it" lang="it-it"
       dir="ltr">
     <head>
-        <title>意大利华人专业人士协会</title>
+        <title>香港奥莱投资管理有限公司</title>
 
         <meta name="viewport"
               content="width=device-width, initial-scale=1, maximum-scale=1" />
@@ -13,28 +13,28 @@
         <meta name="keywords"
               content="startup, start, up, innovation, innovazione, investitori, imprenditoria, imprenditore, idea, corso, pitch" />
         <meta name="description"
-              content="意大利华人专业人士协会 " />
+              content="香港奥莱投资管理有限公司 " />
         <meta name="generator"
               content="Joomla! - Open Source Content Management" />
 
 
         <!-- metadata -->
         <!-- Schema.org markup for Google+ -->
-        <meta itemprop="name" content="意大利华人专业人士协会"/>
-        <meta itemprop="description" content="意大利华人专业人士协会 "/>
+        <meta itemprop="name" content="香港奥莱投资管理有限公司"/>
+        <meta itemprop="description" content="香港奥莱投资管理有限公司 "/>
         <meta itemprop="image" content="/logo.jpg"/>
         <!-- Twitter Card data -->
         <meta name="twitter:card" content="summary"/>
         <meta name="twitter:creator" content="http://www.apci-italia.it/"/>
         <meta name="twitter:url" content="http://www.apci-italia.it/"/>
-        <meta name="twitter:title" content="意大利华人专业人士协会"/>
-        <meta name="twitter:description"  content="意大利华人专业人士协会 "/>
+        <meta name="twitter:title" content="香港奥莱投资管理有限公司"/>
+        <meta name="twitter:description"  content="香港奥莱投资管理有限公司 "/>
         <meta name="twitter:image" content="/logo.jpg"/>
         <!-- Open Graph data -->
         <meta property="og:locale" content="it_IT" />
         <meta property="og:type" content="article" />
-        <meta property="og:title" content="意大利华人专业人士协会" />
-        <meta property="og:description" content="意大利华人专业人士协会 " />
+        <meta property="og:title" content="香港奥莱投资管理有限公司" />
+        <meta property="og:description" content="香港奥莱投资管理有限公司 " />
         <meta property="og:image" content="/logo.jpg" />
         <meta property="og:url" content="http://www.apci-italia.it/" />
 
@@ -266,8 +266,8 @@
                                         <li class="item-237 deeper parent"><a class="menu-font" href="#stop">活动介绍</a>
                                             <ul class="nav-child unstyled small">
                                                 <li class="item-203"><a class="menu-font"
-                                                                        href="/tianjin-2014.php">过往活动</a></li>
-                                                <li class="item-204"><a class="menu-font"href="/milan-2015.html">即将进行</a></li>
+                                                                        href="/past-event.html">过往活动</a></li> 
+                                                                                                <li class="item-204"><a class="menu-font"href="/future-event.html">即将进行</a></li> 
                                             </ul>
                                         </li>
 

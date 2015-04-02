@@ -14,13 +14,14 @@ and open the template in the editor.
 }
 
 .section-title-text span{
-    margin-left: 60; 
+    margin-top: 20px;
+    float:right;
     font-size: 20px;
 }
 
 .section-title h2{
     background: #8C868A;
-    height:3px;
+    height:2px;
     width:100%;
     display:inline-block;
     vertical-align:middle;
