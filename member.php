@@ -508,17 +508,17 @@
                     <div class="col-lg-6 col-sm-6 item 2011">
                         <!-- Background -->
                         <div class="article-container ">
-                            <a href="" target="_blank" alt="刘金权"> 
+                            <a href="" target="_blank" alt="麻军"> 
                                 <!-- Immagine -->
                                 <div class="col-lg-4 testimonial-right-column">
                                     <div class="testimonial-image-container">
-                                        <img src="images/founder/liujinquan.jpg" alt="刘金权" class="testimonial-image"/> 
+                                        <img src="images/founder/liujinquan.jpg" alt="麻军" class="testimonial-image"/> 
                                     </div>
                                 </div>
                                 <div class="col-lg-8 col-sm-8 testimonial-content">
                                     <!-- Titolo -->
                                     <div>
-                                        <p class="testimonial-title testimonial-text-align">刘金权</p>
+                                        <p class="testimonial-title testimonial-text-align">麻军</p>
                                     </div>
                                     <!--Linea di separazione --> 
                                     <div class="article-separator"></div>
@@ -538,11 +538,11 @@
                     <div class="col-lg-6 col-sm-6 item 2014">
                         <!-- Background -->
                         <div class="article-container ">
-                            <a href="" target="_blank" alt="刘金权"> 
+                            <a href="" target="_blank" alt="麻军"> 
                                 <!-- Immagine -->
                                 <div class="col-lg-4 testimonial-right-column">
                                     <div class="testimonial-image-container">
-                                        <img src="images/founder/liujinquan.jpg" alt="刘金权" class="testimonial-image"/> 
+                                        <img src="images/founder/liujinquan.jpg" alt="麻军" class="testimonial-image"/> 
                                     </div>
                                 </div>
                                 <div class="col-lg-8 col-sm-8 testimonial-content">

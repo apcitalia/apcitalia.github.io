@@ -443,9 +443,9 @@
                                     <li><i class="fa fa-phone fa-fw"></i>&nbsp; 电话号码 &nbsp;&nbsp;<span> ＋39-388-342-5556</span></li>
                                     <li><i class="fa fa-envelope fa-fw"></i>&nbsp; Email &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span> itshilei@gmail.com</span></li>
                                     <li><i class="fa fa-car"></i>&nbsp; 地址 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span> via giuseppe de leva, 19</span></li>
-                                    <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;00174 Roma, Italia</li>
+                                    <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;00184 Roma, Italia</li>
                                     <div class="meta-line3">
-                                        <a id="gmaps" href="https://www.google.com/maps/embed/v1/place?q=via%20giuseppe%20de%20leva%2019%20roma%2C%20RM%2000174%20Italy&key=AIzaSyAfjbjJGcndvrG2L6U6U8WJXgDq3acW9wY">查看地图
+                                        <a id="gmaps" href="https://www.google.com/maps/embed/v1/place?q=via%20giuseppe%20de%20leva%2019%20roma%2C%20RM%2000184%20Italy&key=AIzaSyAfjbjJGcndvrG2L6U6U8WJXgDq3acW9wY">查看地图
                                         </a>
                                     </div>
 
@@ -678,8 +678,8 @@
 
                                                             <div class="moduleItemIntrotext">
 
-                                                                <p>via giuseppe de leva 19
-                                                                    roma, RM 00174 Italy</p>      	     
+                                                                <p>Via angelo poliziano 80 Interno 1
+                                                                    roma, RM 00184 Italy</p>      	     
                                                             </div>
 
 
