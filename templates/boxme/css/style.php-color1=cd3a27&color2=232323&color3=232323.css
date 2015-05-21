@@ -12,10 +12,10 @@
 #component .k2Pagination ul li.disabled,#component .k2Pagination ul li:hover,#component .pagination ul li.active,
 #component .pagination ul li.disabled,#component .pagination ul li:hover
 {
-  background-color:#cd3a27;
+  background-color:#003366;
 }
 .submit-comment,.quote-style2{
-  background-color:#cd3a27!important;
+  background-color:#003366!important;
 }
 
 #breadcrumb a:hover,#breadcrumb-parallax a:hover,.color-text,.section-title,.search-results a,.text-404,.info-icon,.info a,
@@ -24,15 +24,15 @@
 .blg-txt a,.blog-box a,.post-tag-area p,.post-author-box a,.blog-info-list a,.comment-box h4,.comment-box h4 a,.portfolio-info-box div,
 .portfolio-info-box a:hover,.project-details h5,.divider i,.faq-filters li a:hover,.faq-filters li a.active,.list-style li a:hover,.list-style li a.active,.rev-bold-title,.rev-mbold-title,.prt-lnk-wrppr a:hover,.tp-caption.rev-bold-title,.tp-caption.rev-mbold-title
 {
-  color:#cd3a27;
+  color:#003366;
 }
 
 #component .k2Pagination ul li,
 #component .pagination ul li{
-  border-color:#cd3a27;
+  border-color:#003366;
 }
 .tab-style1 li.active:after,.tab-style1 li:hover:after{
-  border-left-color:#cd3a27;
+  border-left-color:#003366;
 }
 
 .prt-lnk-wrppr a{

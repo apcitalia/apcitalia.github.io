@@ -1,0 +1,51 @@
+#founder-container{
+    text-align:center;
+    height: 150px;
+    width: 1500px;
+    border: 1px solid #666
+    
+}
+
+#founder-image
+{
+    display: inline-block;
+    margin:5px,20px;
+    padding:5px;
+    border: 1px solid #666
+
+
+}
+
+#slid-text
+{
+    position: absolute;
+    font-size: 45px;
+    font-weight: bold;
+    top:300px;
+    left:100px;
+    width:100%;
+    color: white;
+    
+    font: Helvetica, sans-serif;
+    letter-spacing: -1px;
+    background: rgb(0,0,0);
+    background: rgba(0,0,0,0.7);
+    padding: 10px;
+}
+
+#slid-span
+{
+    position: absolute;
+    font-size: 45px;
+    font-weight: bold;
+    
+    width:100%;
+    color: white;
+    
+    font: Helvetica, sans-serif;
+    letter-spacing: -1px;
+    background: rgb(0,0,0);
+    background: rgba(0,0,0,0.7);
+    padding: 10px;
+    
+}

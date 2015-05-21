@@ -9,7 +9,7 @@ and open the template in the editor.
       xmlns="http://www.w3.org/1999/xhtml" xml:lang="it-it" lang="it-it"
       dir="ltr">
     <head>
-        <title>香港奥莱投资管理有限公司</title>
+        <title>奥莱-EBS投资管理有限公司</title>
 
         <meta name="viewport"
               content="width=device-width, initial-scale=1, maximum-scale=1" />
@@ -18,30 +18,30 @@ and open the template in the editor.
         <meta name="keywords"
               content="startup, start, up, innovation, innovazione, investitori, imprenditoria, imprenditore, idea, corso, pitch" />
         <meta name="description"
-              content="香港奥莱投资管理有限公司 " />
+              content="奥莱-EBS投资管理有限公司 " />
         <meta name="generator"
               content="Joomla! - Open Source Content Management" />
 
 
         <!-- metadata -->
         <!-- Schema.org markup for Google+ -->
-        <meta itemprop="name" content="香港奥莱投资管理有限公司"/>
-        <meta itemprop="description" content="香港奥莱投资管理有限公司 "/>
+        <meta itemprop="name" content="奥莱-EBS投资管理有限公司"/>
+        <meta itemprop="description" content="奥莱-EBS投资管理有限公司 "/>
         <meta itemprop="image" content="logo.jpg"/>
         <!-- Twitter Card data -->
         <meta name="twitter:card" content="summary"/>
-        <meta name="twitter:creator" content="http://www.apci-italia.it/"/>
-        <meta name="twitter:url" content="http://www.apci-italia.it/"/>
-        <meta name="twitter:title" content="香港奥莱投资管理有限公司"/>
-        <meta name="twitter:description"  content="香港奥莱投资管理有限公司 "/>
+        <meta name="twitter:creator" content="http://www.aolai-ebs.com/"/>
+        <meta name="twitter:url" content="http://www.aolai-ebs.com/"/>
+        <meta name="twitter:title" content="奥莱-EBS投资管理有限公司"/>
+        <meta name="twitter:description"  content="奥莱-EBS投资管理有限公司 "/>
         <meta name="twitter:image" content="/logo.jpg"/>
         <!-- Open Graph data -->
         <meta property="og:locale" content="it_IT" />
         <meta property="og:type" content="article" />
-        <meta property="og:title" content="香港奥莱投资管理有限公司" />
-        <meta property="og:description" content="香港奥莱投资管理有限公司 " />
+        <meta property="og:title" content="奥莱-EBS投资管理有限公司" />
+        <meta property="og:description" content="奥莱-EBS投资管理有限公司 " />
         <meta property="og:image" content="/logo.jpg" />
-        <meta property="og:url" content="http://www.apci-italia.it/" />
+        <meta property="og:url" content="http://www.aolai-ebs.com/" />
 
         <link rel="shortcut icon" href="images/logo/favicon.ico" />
 
@@ -206,28 +206,28 @@ and open the template in the editor.
                                 <!--social share icon begin-->
                                 <ul class="dmt-social-links dmt-icons-16">
                                     <li class="facebook"><a title="Facebook" rel="me nofollow"
-                                                            href="http://www.apci-italia.it/" target="_blank">
+                                                            href="http://www.aolai-ebs.com/" target="_blank">
                                             <img src="modules/mod_dmt_social/icons/facebook_16.png" alt="" />
                                         </a></li>
                                     <li class="twitter"><a title="Twitter" rel="me nofollow"
-                                                           href="http://www.apci-italia.it/" target="_blank"> <img
+                                                           href="http://www.aolai-ebs.com/" target="_blank"> <img
                                                 src="modules/mod_dmt_social/icons/twitter_16.png" alt="" />
                                         </a></li>
                                     <li class="google_wave"><a title="Google+" rel="me nofollow"
-                                                               href="http://www.apci-italia.it/"
+                                                               href="http://www.aolai-ebs.com/"
                                                                target="_blank"> <img
                                                 src="modules/mod_dmt_social/icons/google_wave_16.png" alt="" />
                                         </a></li>
                                     <li class="linkedin">
                                         <a title="LinkedIn" rel="me nofollow"
-                                           href="http://www.apci-italia.it/"
+                                           href="http://www.aolai-ebs.com/"
                                            target="_blank"> 
                                             <img
                                                 src="modules/mod_dmt_social/icons/linkedin_16.png" alt="" />
                                         </a>
                                     </li>
                                     <li class="youtube"><a title="YouTube" rel="me nofollow"
-                                                           href="http://www.apci-italia.it/"
+                                                           href="http://www.aolai-ebs.com/"
                                                            target="_blank"> <img
                                                 src="modules/mod_dmt_social/icons/youtube_16.png" alt="" />
                                         </a></li>
@@ -238,7 +238,7 @@ and open the template in the editor.
                                 <div class="mod-languages">
                                     <ul class="lang-inline">
                                         <li class="" dir="ltr"><a href="/en/"> <img
-                                                    src="http://www.apci-italia.it/media/mod_falang/images/en.gif" alt="English (UK)"
+                                                    src="http://www.aolai-ebs.com/media/mod_falang/images/en.gif" alt="English (UK)"
                                                     title="English (UK)" />
                                             </a></li>
                                         <!-- <<< [FREE] <<< -->
@@ -294,7 +294,7 @@ and open the template in the editor.
 
                             <li data-transition="fade" data-slotamount="7" data-masterspeed="300" >
 
-                                <img src="images/bg_residenze_bosco.jpg" alt="香港奥莱投资管理有限公司首页图" />
+                                <img src="images/bg_residenze_bosco.jpg" alt="奥莱-EBS投资管理有限公司首页图" />
                                 <div class="tp-caption rev-slider-title-nobackground fade"
                                      data-x="3"
                                      data-y="112"
@@ -325,7 +325,7 @@ and open the template in the editor.
                                      data-start="1500"
                                      data-easing="easeOutExpo"  >
                                     <div class="bigbutton-place">
-                                        <a class="bigbutton bigbutton2" target="tag" style=" " href="/join-us.html" >联系我们</a>
+                                        <a class="bigbutton bigbutton2" target="tag" style=" " href="/contact-us.html" >联系我们</a>
                                     </div>
                                 </div>
 
@@ -421,9 +421,9 @@ and open the template in the editor.
 
                                                 <center>  </center>
 
-                                                <h1 style="font-size: 35px;line-height: 1.5em">香港奥莱投资管理有限公司</h1>
+                                                <h1 style="font-size: 35px;line-height: 1.5em">奥莱-EBS投资管理有限公司</h1>
                                                 <h2 style="font-size: 20px;line-height: 1.5em; margin-bottom: 15px;">Il Gruppo Aolai-Ebs</h2>
-                                                <h2 style="font-size: 25px; line-height: 1.5em ">香港奥莱投资管理有限公司 e.b.s欧洲商务有限公司意大利唯一一家集律师，会计师，经济评估师为一体的商务服务公司，在罗马，香港，南京，上 海设有专家团队和客服团队的海外置业投资公司。</h2>
+                                                <h2 style="font-size: 25px; line-height: 1.5em ">奥莱-EBS投资管理有限公司 e.b.s欧洲商务有限公司意大利唯一一家集律师，会计师，经济评估师为一体的商务服务公司，在罗马，香港，南京，上 海设有专家团队和客服团队的海外置业投资公司。</h2>
                                                 <h2 style="font-size: 25px; line-height: 1.5em"></h2>
                                                 <h2 style="font-size: 25px; line-height: 1.5em"></h2>
                                                 <h2 style="font-size: 25px; line-height: 1.5em; margin-bottom: 35px; "></h2>
@@ -499,7 +499,7 @@ and open the template in the editor.
                                                             <div class="moduleItemIntrotext">
 
                                                                 <p>客户服务邮箱：</p>
-                                                                <p>apcitalia@hotmail.com</p>
+                                                                <p>ebs.center@hotmail.com</p>
                                                             </div>
 
 
@@ -649,9 +649,9 @@ and open the template in the editor.
 
                                                             <div class="moduleItemIntrotext">
 
-                                                                <p>©2014 APCI<span style="line-height: 1.3em;"> </span></p>
-                                                                <p><span style="line-height: 1.3em;">会标设计：王雪莹</span></p>
-                                                                <p><a href="http://www.apci-italia.it/" target="_blank" title="Tecnojam"><span style="line-height: 1.3em;"><img src="images/logo_footer.png" alt="" /></span></a></p>
+                                                                <p>©2014 AOLAI-EBS<span style="line-height: 1.3em;"> </span></p>
+                                                                 
+                                                                 
                                                                 <p><span style="line-height: 1.3em;"></span></p>
                                                                 <p><span style="line-height: 1.3em;">技术支持：史磊</span></p>
 
@@ -699,48 +699,6 @@ and open the template in the editor.
         <div class="custom"  >
             <div><a class="scrollup" href="#"><i class="icon-angle-up"></i></a></div></div>
 
-
-        <!--cnzz website statistic-->
-        <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
-            document.write(unescape("%3Cspan id='cnzz_stat_icon_1254054430'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s11.cnzz.com/z_stat.php%3Fid%3D1254054430' type='text/javascript'%3E%3C/script%3E"));</script>
-
-        <!-- Start of StatCounter Code for Default Guide -->
-        <script type="text/javascript">
-            var sc_project = 10225486;
-            var sc_invisible = 0;
-            var sc_security = "1578c8e5";
-            var scJsHost = (("https:" == document.location.protocol) ?
-                    "https://secure." : "http://www.");
-            document.write("<sc" + "ript type='text/javascript' src='" +
-                    scJsHost +
-                    "statcounter.com/counter/counter.js'></" + "script>");
-        </script>
-        <noscript>
-            <div class="statcounter"><a title="shopify visitor
-                                        statistics" href="http://statcounter.com/shopify/"
-                                        target="_blank"><img class="statcounter"
-                                     src="http://c.statcounter.com/10225486/0/1578c8e5/0/"
-                                     alt="shopify visitor statistics"></a></div></noscript>
-        <!-- End of StatCounter Code for Default Guide -->
-        <!--Google website statistic start-->    
-        <script>
-            (function (i, s, o, g, r, a, m) {
-                i['GoogleAnalyticsObject'] = r;
-                i[r] = i[r] || function () {
-                    (i[r].q = i[r].q || []).push(arguments)
-                }, i[r].l = 1 * new Date();
-                a = s.createElement(o),
-                        m = s.getElementsByTagName(o)[0];
-                a.async = 1;
-                a.src = g;
-                m.parentNode.insertBefore(a, m)
-            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-
-            ga('create', 'UA-58485263-1', 'auto');
-            ga('send', 'pageview');
-
-        </script>
-        <!--Google website statistic end-->    
 
 
 

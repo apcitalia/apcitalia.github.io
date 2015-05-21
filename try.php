@@ -9,7 +9,7 @@ and open the template in the editor.
       xmlns="http://www.w3.org/1999/xhtml" xml:lang="it-it" lang="it-it"
       dir="ltr">
     <head>
-        <title>香港奥莱投资管理有限公司</title>
+        <title>奥莱-EBS投资管理有限公司</title>
 
         <meta name="viewport"
               content="width=device-width, initial-scale=1, maximum-scale=1" />
@@ -18,30 +18,30 @@ and open the template in the editor.
         <meta name="keywords"
               content="startup, start, up, innovation, innovazione, investitori, imprenditoria, imprenditore, idea, corso, pitch" />
         <meta name="description"
-              content="香港奥莱投资管理有限公司 " />
+              content="奥莱-EBS投资管理有限公司 " />
         <meta name="generator"
               content="Joomla! - Open Source Content Management" />
 
 
         <!-- metadata -->
         <!-- Schema.org markup for Google+ -->
-        <meta itemprop="name" content="香港奥莱投资管理有限公司"/>
-        <meta itemprop="description" content="香港奥莱投资管理有限公司 "/>
+        <meta itemprop="name" content="奥莱-EBS投资管理有限公司"/>
+        <meta itemprop="description" content="奥莱-EBS投资管理有限公司 "/>
         <meta itemprop="image" content="logo.jpg"/>
         <!-- Twitter Card data -->
         <meta name="twitter:card" content="summary"/>
-        <meta name="twitter:creator" content="http://www.apci-italia.it/"/>
-        <meta name="twitter:url" content="http://www.apci-italia.it/"/>
-        <meta name="twitter:title" content="香港奥莱投资管理有限公司"/>
-        <meta name="twitter:description"  content="香港奥莱投资管理有限公司 "/>
+        <meta name="twitter:creator" content="http://www.aolai-ebs.com/"/>
+        <meta name="twitter:url" content="http://www.aolai-ebs.com/"/>
+        <meta name="twitter:title" content="奥莱-EBS投资管理有限公司"/>
+        <meta name="twitter:description"  content="奥莱-EBS投资管理有限公司 "/>
         <meta name="twitter:image" content="/logo.jpg"/>
         <!-- Open Graph data -->
         <meta property="og:locale" content="it_IT" />
         <meta property="og:type" content="article" />
-        <meta property="og:title" content="香港奥莱投资管理有限公司" />
-        <meta property="og:description" content="香港奥莱投资管理有限公司 " />
+        <meta property="og:title" content="奥莱-EBS投资管理有限公司" />
+        <meta property="og:description" content="奥莱-EBS投资管理有限公司 " />
         <meta property="og:image" content="/logo.jpg" />
-        <meta property="og:url" content="http://www.apci-italia.it/" />
+        <meta property="og:url" content="http://www.aolai-ebs.com/" />
 
         <link rel="shortcut icon" href="images/logo/favicon.ico" />
 
@@ -206,28 +206,28 @@ and open the template in the editor.
                                 <!--social share icon begin-->
                                 <ul class="dmt-social-links dmt-icons-16">
                                     <li class="facebook"><a title="Facebook" rel="me nofollow"
-                                                            href="http://www.apci-italia.it/" target="_blank">
+                                                            href="http://www.aolai-ebs.com/" target="_blank">
                                             <img src="modules/mod_dmt_social/icons/facebook_16.png" alt="" />
                                         </a></li>
                                     <li class="twitter"><a title="Twitter" rel="me nofollow"
-                                                           href="http://www.apci-italia.it/" target="_blank"> <img
+                                                           href="http://www.aolai-ebs.com/" target="_blank"> <img
                                                 src="modules/mod_dmt_social/icons/twitter_16.png" alt="" />
                                         </a></li>
                                     <li class="google_wave"><a title="Google+" rel="me nofollow"
-                                                               href="http://www.apci-italia.it/"
+                                                               href="http://www.aolai-ebs.com/"
                                                                target="_blank"> <img
                                                 src="modules/mod_dmt_social/icons/google_wave_16.png" alt="" />
                                         </a></li>
                                     <li class="linkedin">
                                         <a title="LinkedIn" rel="me nofollow"
-                                           href="http://www.apci-italia.it/"
+                                           href="http://www.aolai-ebs.com/"
                                            target="_blank"> 
                                             <img
                                                 src="modules/mod_dmt_social/icons/linkedin_16.png" alt="" />
                                         </a>
                                     </li>
                                     <li class="youtube"><a title="YouTube" rel="me nofollow"
-                                                           href="http://www.apci-italia.it/"
+                                                           href="http://www.aolai-ebs.com/"
                                                            target="_blank"> <img
                                                 src="modules/mod_dmt_social/icons/youtube_16.png" alt="" />
                                         </a></li>
@@ -238,7 +238,7 @@ and open the template in the editor.
                                 <div class="mod-languages">
                                     <ul class="lang-inline">
                                         <li class="" dir="ltr"><a href="/en/"> <img
-                                                    src="http://www.apci-italia.it/media/mod_falang/images/en.gif" alt="English (UK)"
+                                                    src="http://www.aolai-ebs.com/media/mod_falang/images/en.gif" alt="English (UK)"
                                                     title="English (UK)" />
                                             </a></li>
                                         <!-- <<< [FREE] <<< -->
@@ -294,7 +294,7 @@ and open the template in the editor.
 
                             <li data-transition="fade" data-slotamount="7" data-masterspeed="300" >
 
-                                <img src="images/bg_residenze_bosco.jpg" alt="香港奥莱投资管理有限公司首页图" />
+                                <img src="images/bg_residenze_bosco.jpg" alt="奥莱-EBS投资管理有限公司首页图" />
                                 <div class="tp-caption rev-slider-title-nobackground fade"
                                      data-x="3"
                                      data-y="112"
@@ -317,17 +317,6 @@ and open the template in the editor.
                                      data-speed="300"
                                      data-start="1200"
                                      data-easing="easeOutExpo"  ></div>
-
-                                <div class="tp-caption rev-slider-button fade"
-                                     data-x="800"
-                                     data-y="380"
-                                     data-speed="300"
-                                     data-start="1500"
-                                     data-easing="easeOutExpo"  >
-                                    <div class="bigbutton-place">
-                                        <a class="bigbutton bigbutton2" target="tag" style=" " href="/join-us.html" >联系我们</a>
-                                    </div>
-                                </div>
 
 
                             </li>
@@ -399,220 +388,224 @@ and open the template in the editor.
                     <div class='st-divider ' style='padding: 20px 0; border: none;'></div>
                 </div>
 
+                <!----rome---->
 
-            <!--People section title-->
-            <div class="container">
-                <div class="st-module module" id="Mod237">
-                    <div class="module-inner">
-                        <div class="module-ct">
+            <div class="">
+                <div class="st-divider " style="padding: 30px 0; border: none;"></div>
 
-                            <div id="k2ModuleBox237" class="k2ItemsBlock">
+                <div class="st-divider " style="padding: 20px 0; border: none;"></div>
+                    <div class="container">
+                        <div class="row portfolio-box">
 
-
-                                <ul>
-                                    <li class="even lastItem">
-
-                                        <!-- Plugins: BeforeDisplay -->
-
-                                        <!-- K2 Plugins: K2BeforeDisplay -->
-
-                                        <!-- Plugins: AfterDisplayTitle -->
-
-                                        <!-- K2 Plugins: K2AfterDisplayTitle -->
-
-                                        <!-- Plugins: BeforeDisplayContent -->
-
-                                        <!-- K2 Plugins: K2BeforeDisplayContent -->
-
-                                        <div class="moduleItemIntrotext">
-
-                                            <h1 style="margin-bottom: 20px">合伙人介绍<br/></h1>      	      </div>
-
-
-                                        <div class="clr"></div>
-
-                                        <div class="moduleItemVideo">
-                                            <span class="moduleItemVideoCaption"></span>
-                                            <span class="moduleItemVideoCredits"></span>
-                                        </div>
-
-                                        <div class="clr"></div>
-
-                                        <!-- Plugins: AfterDisplayContent -->
-
-                                        <!-- K2 Plugins: K2AfterDisplayContent -->
-
-
-                                        <!-- Plugins: AfterDisplay -->
-
-                                        <!-- K2 Plugins: K2AfterDisplay -->
-
-                                        <div class="clr"></div>
-                                    </li>
-                                    <li class="clearList"></li>
-                                </ul>
-
+                            <div class="section-title-text">
+                                <h2 style="margin-top: 30px;  margin-bottom: 10px; font-size: 42px;">罗马
+                                    <span>永恒之城罗马的房产信息
+                                    </span>
+                                </h2>
                             </div>
+
+                            <div class="section-title">
+                                <h2></h2>
+                            </div>
+
+
+                            <div class="col-lg-4 col-sm-4 item ">
+                                <div class="catItemView blog-box groupLeading">
+                                    <div class="blg-img-box" style="width: 90%; height: auto;">
+                                        <a href="/ouzhouzhongxinbieshu.html"> <img
+                                                src="images/fangchanjieshao/ouzhouzhongxinbieshu/ouzhouzhongxinbieshu.png"
+                                                alt="投资与移民交流活动" style="width: 100%; height: auto;">
+                                        </a> 
+                                    </div>
+                                    <div class="editions-legend clearfix" style="width: 90%; height: auto;">
+                                        <a href="/ouzhouzhongxinbieshu.html">欧洲中心别墅</a>
+                                    </div>
+                                    <div class="clr"></div>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-4 col-sm-4 item ">
+                                <div class="catItemView blog-box groupLeading">
+                                    <div class="blg-img-box" style="width: 90%; height: auto;">
+                                        <a href="/luomajinjiaohaozhai.html"> <img
+                                                src="images/fangchanjieshao/luomajinjiaohaozhai/luomajinjiaohaozhai.png"
+                                                alt="" style="width: 100%; height: auto;">
+                                        </a>
+
+                                    </div>
+
+                                    <div class="editions-legend clearfix" style="width: 90%; height: auto;">
+                                        <a href="/luomajinjiaohaozhai.html">罗马近郊豪宅</a>
+                                    </div>
+
+                                    <div class="clr"></div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-sm-4 item ">
+                                <div class="catItemView blog-box groupLeading">
+                                    <div class="blg-img-box" style="width: 90%; height: auto;">
+                                        <a href="/property.html"><img
+                                                src="images/mainPageEventGallery/main_page_4.jpg"
+                                                alt="投资与移民交流活动" style="width: 100%; height: auto;">
+                                        </a>
+                                    </div>
+                                    <div class="editions-legend clearfix" style="width: 90%; height: auto;">
+                                        <a href="/property.html">第三套房产</a>
+                                    </div>
+                                    <div class="clr"></div>
+                                </div>
+                            </div>
+                            
                         </div>
                     </div>
-                </div>
             </div>
 
-            <!--People section profession list
-            <div class="container">
-                <div class="portfolio-filters clearfix">
-                    <ul>
-                        <li><a href="#" class="active" data-filter="*">所有</a></li>
+                <!----milan---->
 
-                        <li>
-                            <a href="#" data-filter=".2014" style="margin-left:50px ">医师</a>
-                        </li>  
+            <div class="">
+                <div class="st-divider " style="padding: 30px 0; border: none;"></div>
 
-                        <li>
-                            <a href="#" data-filter=".2013" style="margin-left:50px ">律师</a>
-                        </li>  
+                <div class="st-divider " style="padding: 20px 0; border: none;"></div>
+                    <div class="container">
+                        <div class="row portfolio-box">
 
-                        <li>
-                            <a href="#" data-filter=".2012" style="margin-left:50px ">会计师</a>
-                        </li>  
+                            <div class="section-title-text">
+                                <h2 style="margin-top: 30px;  margin-bottom: 10px; font-size: 42px;">米兰
+                                    <span>米兰的房产信息
+                                    </span>
+                                </h2>
+                            </div>
 
-                        <li>
-                            <a href="#" data-filter=".2011" style="margin-left:50px ">工程师</a>
-                        </li>  
+                            <div class="section-title">
+                                <h2></h2>
+                            </div>
 
-                        <li>
-                            <a href="#" data-filter=".2010" style="margin-left:50px ">学生</a>
-                        </li>  
-                    </ul>
-                </div>
+
+                            <div class="col-lg-4 col-sm-4 item ">
+                                <div class="catItemView blog-box groupLeading">
+                                    <div class="blg-img-box" style="width: 90%; height: auto;">
+                                        <a href="/ouzhouzhongxinbieshu.html"> <img
+                                                src="images/fangchanjieshao/ouzhouzhongxinbieshu/ouzhouzhongxinbieshu.png"
+                                                alt="投资与移民交流活动" style="width: 100%; height: auto;">
+                                        </a> 
+                                    </div>
+                                    <div class="editions-legend clearfix" style="width: 90%; height: auto;">
+                                        <a href="/ouzhouzhongxinbieshu.html">欧洲中心别墅</a>
+                                    </div>
+                                    <div class="clr"></div>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-4 col-sm-4 item ">
+                                <div class="catItemView blog-box groupLeading">
+                                    <div class="blg-img-box" style="width: 90%; height: auto;">
+                                        <a href="/luomajinjiaohaozhai.html"> <img
+                                                src="images/fangchanjieshao/luomajinjiaohaozhai/luomajinjiaohaozhai.png"
+                                                alt="" style="width: 100%; height: auto;">
+                                        </a>
+
+                                    </div>
+
+                                    <div class="editions-legend clearfix" style="width: 90%; height: auto;">
+                                        <a href="/luomajinjiaohaozhai.html">罗马近郊豪宅</a>
+                                    </div>
+
+                                    <div class="clr"></div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-sm-4 item ">
+                                <div class="catItemView blog-box groupLeading">
+                                    <div class="blg-img-box" style="width: 90%; height: auto;">
+                                        <a href="/property.html"><img
+                                                src="images/mainPageEventGallery/main_page_4.jpg"
+                                                alt="投资与移民交流活动" style="width: 100%; height: auto;">
+                                        </a>
+                                    </div>
+                                    <div class="editions-legend clearfix" style="width: 90%; height: auto;">
+                                        <a href="/property.html">第三套房产</a>
+                                    </div>
+                                    <div class="clr"></div>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
             </div>
 
-            <!--People section list-->
+                <!----firenze---->
 
-            <div class="container">
-                <div class="row portfolio-box">
+            <div class="">
+                <div class="st-divider " style="padding: 30px 0; border: none;"></div>
 
-                    <div class="col-lg-6 col-sm-6 item 2011">
-                        <!-- Background -->
-                        <div class="article-container ">
-                            <a href="" target="_blank" alt="麻军"> 
-                                <!-- Immagine -->
-                                <div class="col-lg-4 testimonial-right-column">
-                                    <div class="testimonial-image-container">
-                                        <img src="images/founder/majun.jpg" alt="麻军" class="testimonial-image"/> 
+                <div class="st-divider " style="padding: 20px 0; border: none;"></div>
+                    <div class="container">
+                        <div class="row portfolio-box">
+
+                            <div class="section-title-text">
+                                <h2 style="margin-top: 30px;  margin-bottom: 10px; font-size: 42px;">佛罗伦萨
+                                    <span>佛罗伦萨的房产信息
+                                    </span>
+                                </h2>
+                            </div>
+
+                            <div class="section-title">
+                                <h2></h2>
+                            </div>
+
+
+                            <div class="col-lg-4 col-sm-4 item ">
+                                <div class="catItemView blog-box groupLeading">
+                                    <div class="blg-img-box" style="width: 90%; height: auto;">
+                                        <a href="/ouzhouzhongxinbieshu.html"> <img
+                                                src="images/fangchanjieshao/ouzhouzhongxinbieshu/ouzhouzhongxinbieshu.png"
+                                                alt="投资与移民交流活动" style="width: 100%; height: auto;">
+                                        </a> 
                                     </div>
+                                    <div class="editions-legend clearfix" style="width: 90%; height: auto;">
+                                        <a href="/ouzhouzhongxinbieshu.html">欧洲中心别墅</a>
+                                    </div>
+                                    <div class="clr"></div>
                                 </div>
-                                <div class="col-lg-8 col-sm-8 testimonial-content">
-                                    <!-- Titolo -->
-                                    <div>
-                                        <p class="testimonial-title testimonial-text-align">麻军</p>
-                                    </div>
-                                    <!--Linea di separazione --> 
-                                    <div class="article-separator"></div>
+                            </div>
 
-                                    <!-- Deascrizione -->
-                                    <div class="testimonial-description" style="margin-top:15px">
-                                        <p>资深经济师</p> 
-                                        <p>意大利工作生活24年，资深经济师，通晓意大利法律，法规，多年的移民经验和丰富的意大利生活经验。</p>
-                                        <p></p>
+                            <div class="col-lg-4 col-sm-4 item ">
+                                <div class="catItemView blog-box groupLeading">
+                                    <div class="blg-img-box" style="width: 90%; height: auto;">
+                                        <a href="/luomajinjiaohaozhai.html"> <img
+                                                src="images/fangchanjieshao/luomajinjiaohaozhai/luomajinjiaohaozhai.png"
+                                                alt="" style="width: 100%; height: auto;">
+                                        </a>
+
                                     </div>
-                                </div>  
-                            </a> 
+
+                                    <div class="editions-legend clearfix" style="width: 90%; height: auto;">
+                                        <a href="/luomajinjiaohaozhai.html">罗马近郊豪宅</a>
+                                    </div>
+
+                                    <div class="clr"></div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-sm-4 item ">
+                                <div class="catItemView blog-box groupLeading">
+                                    <div class="blg-img-box" style="width: 90%; height: auto;">
+                                        <a href="/property.html"><img
+                                                src="images/mainPageEventGallery/main_page_4.jpg"
+                                                alt="投资与移民交流活动" style="width: 100%; height: auto;">
+                                        </a>
+                                    </div>
+                                    <div class="editions-legend clearfix" style="width: 90%; height: auto;">
+                                        <a href="/property.html">第三套房产</a>
+                                    </div>
+                                    <div class="clr"></div>
+                                </div>
+                            </div>
+                            
                         </div>
                     </div>
-                    
-                    
-                    <div class="col-lg-6 col-sm-6 item 2011">
-                        <!-- Background -->
-                        <div class="article-container ">
-                            <a href="" target="_blank" alt="麻军"> 
-                                <!-- Immagine -->
-                                <div class="col-lg-4 testimonial-right-column">
-                                    <div class="testimonial-image-container">
-                                        <img src="images/founder/antonioli.png" alt="麻军" class="testimonial-image"/> 
-                                    </div>
-                                </div>
-                                <div class="col-lg-8 col-sm-8 testimonial-content">
-                                    <!-- Titolo -->
-                                    <div>
-                                        <p class="testimonial-title testimonial-text-align">Giampiero antonioli(詹彼艾罗·安东尼奥里)</p>
-                                    </div>
-                                    <!--Linea di separazione --> 
-                                    <div class="article-separator"></div>
-
-                                    <!-- Deascrizione -->
-                                    <div class="testimonial-description" style="margin-top:15px">
-                                        <p>意大利资深政治家，经济学家，法律顾问</p> 
-                                        <p>曾任职欧盟轮值主席顾问，现任意大利内政部Iceps亚洲部负责人</p>
-                                        <p></p>
-                                    </div>
-                                </div>  
-                            </a> 
-                        </div>
-                    </div>
-                    
-                    <div class="col-lg-6 col-sm-6 item 2011">
-                        <!-- Background -->
-                        <div class="article-container ">
-                            <a href="" target="_blank" alt="麻军"> 
-                                <!-- Immagine -->
-                                <div class="col-lg-4 testimonial-right-column">
-                                    <div class="testimonial-image-container">
-                                        <img src="images/founder/cristiamo.png" alt="麻军" class="testimonial-image"/> 
-                                    </div>
-                                </div>
-                                <div class="col-lg-8 col-sm-8 testimonial-content">
-                                    <!-- Titolo -->
-                                    <div>
-                                        <p class="testimonial-title testimonial-text-align">Betti cristiamo(柏迪·克里斯迪安罗)</p>
-                                    </div>
-                                    <!--Linea di separazione --> 
-                                    <div class="article-separator"></div>
-
-                                    <!-- Deascrizione -->
-                                    <div class="testimonial-description" style="margin-top:15px">
-                                        <p>意大利著名资深会计师</p> 
-                                        <p>拥有20多年工作经验，通晓意大利各种财务法规和制度</p>
-                                        <p></p>
-                                    </div>
-                                </div>  
-                            </a> 
-                        </div>
-                    </div>
-                    
-                    <div class="col-lg-6 col-sm-6 item 2011">
-                        <!-- Background -->
-                        <div class="article-container ">
-                            <a href="" target="_blank" alt="麻军"> 
-                                <!-- Immagine -->
-                                <div class="col-lg-4 testimonial-right-column">
-                                    <div class="testimonial-image-container">
-                                        <img src="images/founder/alex.jpg" alt="麻军" class="testimonial-image"/> 
-                                    </div>
-                                </div>
-                                <div class="col-lg-8 col-sm-8 testimonial-content">
-                                    <!-- Titolo -->
-                                    <div>
-                                        <p class="testimonial-title testimonial-text-align">郭屹 (Alex)</p>
-                                    </div>
-                                    <!--Linea di separazione --> 
-                                    <div class="article-separator"></div>
-
-                                    <!-- Deascrizione -->
-                                    <div class="testimonial-description" style="margin-top:15px">
-                                        <p>中国大陆市场负责人</p> 
-                                        <p>资深经纪人，拥有丰富的欧洲生活经历和工作经验</p>
-                                        <p></p>
-                                    </div>
-                                </div>  
-                            </a> 
-                        </div>
-                    </div>
-                    
-                    
-                    
-                </div>
             </div>
+
+
+
 
                 
             </div>
@@ -657,7 +650,7 @@ and open the template in the editor.
                                                             <div class="moduleItemIntrotext">
 
                                                                 <p>客户服务邮箱：</p>
-                                                                <p>apcitalia@hotmail.com</p>
+                                                                <p>ebs.center@hotmail.com</p>
                                                             </div>
 
 
@@ -807,9 +800,9 @@ and open the template in the editor.
 
                                                             <div class="moduleItemIntrotext">
 
-                                                                <p>©2014 APCI<span style="line-height: 1.3em;"> </span></p>
-                                                                <p><span style="line-height: 1.3em;">会标设计：王雪莹</span></p>
-                                                                <p><a href="http://www.apci-italia.it/" target="_blank" title="Tecnojam"><span style="line-height: 1.3em;"><img src="images/logo_footer.png" alt="" /></span></a></p>
+                                                                <p>©2014 AOLAI-EBS<span style="line-height: 1.3em;"> </span></p>
+                                                                 
+                                                                 
                                                                 <p><span style="line-height: 1.3em;"></span></p>
                                                                 <p><span style="line-height: 1.3em;">技术支持：史磊</span></p>
 
@@ -858,47 +851,6 @@ and open the template in the editor.
             <div><a class="scrollup" href="#"><i class="icon-angle-up"></i></a></div></div>
 
 
-        <!--cnzz website statistic-->
-        <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
-            document.write(unescape("%3Cspan id='cnzz_stat_icon_1254054430'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s11.cnzz.com/z_stat.php%3Fid%3D1254054430' type='text/javascript'%3E%3C/script%3E"));</script>
-
-        <!-- Start of StatCounter Code for Default Guide -->
-        <script type="text/javascript">
-            var sc_project = 10225486;
-            var sc_invisible = 0;
-            var sc_security = "1578c8e5";
-            var scJsHost = (("https:" == document.location.protocol) ?
-                    "https://secure." : "http://www.");
-            document.write("<sc" + "ript type='text/javascript' src='" +
-                    scJsHost +
-                    "statcounter.com/counter/counter.js'></" + "script>");
-        </script>
-        <noscript>
-            <div class="statcounter"><a title="shopify visitor
-                                        statistics" href="http://statcounter.com/shopify/"
-                                        target="_blank"><img class="statcounter"
-                                     src="http://c.statcounter.com/10225486/0/1578c8e5/0/"
-                                     alt="shopify visitor statistics"></a></div></noscript>
-        <!-- End of StatCounter Code for Default Guide -->
-        <!--Google website statistic start-->    
-        <script>
-            (function (i, s, o, g, r, a, m) {
-                i['GoogleAnalyticsObject'] = r;
-                i[r] = i[r] || function () {
-                    (i[r].q = i[r].q || []).push(arguments)
-                }, i[r].l = 1 * new Date();
-                a = s.createElement(o),
-                        m = s.getElementsByTagName(o)[0];
-                a.async = 1;
-                a.src = g;
-                m.parentNode.insertBefore(a, m)
-            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-
-            ga('create', 'UA-58485263-1', 'auto');
-            ga('send', 'pageview');
-
-        </script>
-        <!--Google website statistic end-->    
 
 
 
