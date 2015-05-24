@@ -10,7 +10,8 @@ and open the template in the editor.
       dir="ltr">
     <head>
         <title>奥莱-EBS投资管理有限公司</title>
-
+        
+        
         <meta name="viewport"
               content="width=device-width, initial-scale=1, maximum-scale=1" />
         <!--<base href="/" /> -->
@@ -21,7 +22,6 @@ and open the template in the editor.
               content="奥莱-EBS投资管理有限公司 " />
         <meta name="generator"
               content="Joomla! - Open Source Content Management" />
-
 
         <!-- metadata -->
         <!-- Schema.org markup for Google+ -->
@@ -35,7 +35,8 @@ and open the template in the editor.
         <meta name="twitter:title" content="奥莱-EBS投资管理有限公司"/>
         <meta name="twitter:description"  content="奥莱-EBS投资管理有限公司 "/>
         <meta name="twitter:image" content="/logo.jpg"/>
-        <!-- Open Graph data -->
+        
+                <!-- Open Graph data -->
         <meta property="og:locale" content="it_IT" />
         <meta property="og:type" content="article" />
         <meta property="og:title" content="奥莱-EBS投资管理有限公司" />
@@ -43,25 +44,10 @@ and open the template in the editor.
         <meta property="og:image" content="/logo.jpg" />
         <meta property="og:url" content="http://www.aolai-ebs.com/" />
 
+        
         <link rel="shortcut icon" href="images/logo/favicon.ico" />
 
         <link rel="stylesheet" href="components/com_k2/css/k2.css"
-              type="text/css" />
-        <link rel="stylesheet"
-              href="media/coalawebsocial/modules/likebox/css/cwl-default.css"
-              type="text/css" />
-        <link rel="stylesheet" href="templates/boxme/css/flexslider.css"
-              type="text/css" />
-        <link rel="stylesheet" href="templates/boxme/css/camera.css"
-              type="text/css" />
-        <link rel="stylesheet"
-              href="templates/boxme/css/nivo-themes/default/default.css"
-              type="text/css" />
-        <link rel="stylesheet" href="templates/boxme/css/nivo-slider.css"
-              type="text/css" />
-        <link rel="stylesheet" href="templates/boxme/css/elastic.css"
-              type="text/css" />
-        <link rel="stylesheet" href="templates/boxme/css/jquery.kwicks.min.css"
               type="text/css" />
         <link rel="stylesheet" href="templates/boxme/css/bootstrap.min.css"
               type="text/css" />
@@ -69,9 +55,7 @@ and open the template in the editor.
               type="text/css" />
         <link rel="stylesheet" href="templates/boxme/css/boxme.responsive.css"
               type="text/css" />
-        <link rel="stylesheet"
-              href="templates/boxme/css/style.php?color1=cd3a27&color2=232323&color3=232323"
-              type="text/css" />
+
         <link rel="stylesheet" href="modules/mod_dmt_social/css/dmt_social.css"
               type="text/css" />
         <link rel="stylesheet"
@@ -89,93 +73,26 @@ and open the template in the editor.
         <link rel="stylesheet" href="css/font-setting.css"
               type="text/css" />
 
-        <link rel="stylesheet" href="css/founder.css"
-              type="text/css" />
         <link rel="stylesheet" href="css/section-title.css"
               type="text/css" />
 
-        <style type="text/css">
-            #likebox-wrapper * {
-                min-width: 200px;
-            }
 
-            .fb-comments, .fb-comments span, .fb-comments iframe[style],
-            .fb-comments iframe span[style], .fb-like-box, .fb-like-box span,
-            .fb-like-box iframe[style], .fb-like-box iframe span[style] {
-                min-width: 200px;
-            }
-        </style>
-        <script src="media/system/js/mootools-core.js" type="text/javascript"></script>
-        <script src="media/system/js/core.js" type="text/javascript"></script>
-        <script src="media/jui/js/jquery.min.js" type="text/javascript"></script>
-        <script src="media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
-        <script src="components/com_k2/js/k2.js?v2.6.7&amp;sitepath=/"
-        type="text/javascript"></script>
-        <script src="media/system/js/mootools-more.js" type="text/javascript"></script>
-        <script src="templates/boxme/js/vendor/bootstrap.min.js"
-        type="text/javascript"></script>
-        <script src="templates/boxme/js/retina-1.1.0.min.js"
-        type="text/javascript"></script>
-        <script src="templates/boxme/js/hoverIntent.js" type="text/javascript"></script>
-        <script src="templates/boxme/js/superfish.min.js" type="text/javascript"></script>
-        <script src="templates/boxme/js/supersubs.js" type="text/javascript"></script>
-        <script src="templates/boxme/js/jquery.carouFredSel.js"
-        type="text/javascript"></script>
-        <script src="templates/boxme/js/jquery.prettyPhoto.js"
-        type="text/javascript"></script>
-        <script src="templates/boxme/js/jquery.smint.js" type="text/javascript"></script>
-        <script src="http://maps.google.com/maps/api/js?sensor=true"
-        type="text/javascript"></script>
-        <script src="plugins/system/shinetheme/assets/js/jquery.ui.map.min.js"
-        type="text/javascript"></script>
-        <script src="plugins/system/shinetheme/assets/js/jquery.validate.js"
-        type="text/javascript"></script>
-        <script src="templates/boxme/js/jquery.parallax-1.1.3.js"
-        type="text/javascript"></script>
-        <script src="templates/boxme/js/jquery.isotope.min.js"
-        type="text/javascript"></script>
-        <script src="templates/boxme/js/excanvas.js" type="text/javascript"></script>
-        <script src="templates/boxme/js/jquery.easy-pie-chart.js"
-        type="text/javascript"></script>
-        <script src="templates/boxme/js/jquery.flexslider-min.js"
-        type="text/javascript"></script>
-        <script src="templates/boxme/js/jquery.eislideshow.js"
-        type="text/javascript"></script>
-        <script src="templates/boxme/js/jquery.easing.1.3.js"
-        type="text/javascript"></script>
-        <script src="templates/boxme/js/camera.min.js" type="text/javascript"></script>
-        <script src="templates/boxme/js/jquery.nivo.slider.pack.js"
-        type="text/javascript"></script>
-        <script src="templates/boxme/js/jquery.kwicks.min.js"
-        type="text/javascript"></script>
-        <script src="templates/boxme/js/responsive-nav.min.js"
-        type="text/javascript"></script>
-        <script src="templates/boxme/js/main.js" type="text/javascript"></script>
-        <script
-            src="media/com_uniterevolution/assets/rs-plugin/js/jquery.themepunch.plugins.min.js"
-        type="text/javascript"></script>
-        <script
-            src="media/com_uniterevolution/assets/rs-plugin/js/jquery.themepunch.revolution.min.js"
-        type="text/javascript"></script>
-
-        <script
-            src="templates/boxme/js/main_1420213682874.js"
-        type="text/javascript"></script>
+        <link rel="stylesheet"
+              href="templates/boxme/css/style.php?color1=cd3a27&color2=232323&color3=232323"
+              type="text/css" />
 
 
 
-        <!--[animation]-->
-        <script
-            src="templates/boxme/js/main_1420213682874.js"
-        type="text/javascript"></script>
-        <!--[filte isotope.pkgd.min.js]-->
+        <!--[filte isotope.pkgd.min.js]
         <script src ="js/isotope.pkgd.min.js" type="text/javascript"></script>
+-->
+        <!-- if put this jquery on the bottom , the slider will not work -->
+        <script src="media/jui/js/jquery.min.js" type="text/javascript"></script>
 
 
     </head>
 
-
-    <body id=""  >
+  <body id=""  >
         <div id="wrapper" >
 
             <header class="soci-header">
@@ -183,42 +100,14 @@ and open the template in the editor.
                     <div class="head-social-box">
                         <div class="container clearfix pos-center">
                             <div class="pull-right">
-
-                                <!--social share icon begin-->
-                                <ul class="dmt-social-links dmt-icons-16">
-                                    <li class="facebook"><a title="Facebook" rel="me nofollow"
-                                                            href="http://www.aolai-ebs.com/" target="_blank">
-                                            <img src="modules/mod_dmt_social/icons/facebook_16.png" alt="" />
-                                        </a></li>
-                                    <li class="twitter"><a title="Twitter" rel="me nofollow"
-                                                           href="http://www.aolai-ebs.com/" target="_blank"> <img
-                                                src="modules/mod_dmt_social/icons/twitter_16.png" alt="" />
-                                        </a></li>
-                                    <li class="google_wave"><a title="Google+" rel="me nofollow"
-                                                               href="http://www.aolai-ebs.com/"
-                                                               target="_blank"> <img
-                                                src="modules/mod_dmt_social/icons/google_wave_16.png" alt="" />
-                                        </a></li>
-                                    <li class="linkedin">
-                                        <a title="LinkedIn" rel="me nofollow"
-                                           href="http://www.aolai-ebs.com/"
-                                           target="_blank"> 
-                                            <img
-                                                src="modules/mod_dmt_social/icons/linkedin_16.png" alt="" />
-                                        </a>
-                                    </li>
-                                    <li class="youtube"><a title="YouTube" rel="me nofollow"
-                                                           href="http://www.aolai-ebs.com/"
-                                                           target="_blank"> <img
-                                                src="modules/mod_dmt_social/icons/youtube_16.png" alt="" />
-                                        </a></li>
-                                </ul>
-                                <!--social share icon end -->
+               
+                                <!-- <li class="" dir="ltr"><a href="/en/"> <img -->
 
                                 <!--language -->
                                 <div class="mod-languages">
                                     <ul class="lang-inline">
-                                        <li class="" dir="ltr"><a href="/en/"> <img
+                                        <li class="" dir="ltr"><a href="" target="_blank"> <img
+                                                    
                                                     src="http://www.aolai-ebs.com/media/mod_falang/images/en.gif" alt="English (UK)"
                                                     title="English (UK)" />
                                             </a></li>
@@ -276,6 +165,9 @@ and open the template in the editor.
                             <li data-transition="fade" data-slotamount="7" data-masterspeed="300" >
 
                                 <img src="images/bg_residenze_bosco.jpg" alt="奥莱-EBS投资管理有限公司首页图" />
+              
+
+                                <!--<div class="tp-caption rev-slider-title fade"   -->
 
                                 <div class="tp-caption rev-slider-title-nobackground fade"
                                      data-x="700"
@@ -285,6 +177,9 @@ and open the template in the editor.
                                      data-easing="easeOutExpo" 
                                      style = "color:#000000">梦开始的地方
                                 </div>
+
+
+
                             </li>
                         </ul>
                     </div>
@@ -354,160 +249,63 @@ and open the template in the editor.
                     <div class='st-divider ' style='padding: 20px 0; border: none;'></div>
                 </div>
 
-                <!----rome---->
+                <!----Text below banner---->
 
-                <div class="">
-                    <div class="st-divider " style="padding: 20px 0; border: none;"></div>
-                    <div class="container">
-                        <div class="row portfolio-box">
+                <div class="container">
+                    <div class="st-module module" id="Mod231">
+                        <div class="module-inner">
+                            <div class="module-ct">
 
-                            <div class="section-title-text">
-                                <h2 style="margin-top: 30px;  margin-bottom: 10px; font-size: 42px;">罗马
-                                    <span>永恒之城罗马的房产信息
-                                    </span>
-                                </h2>
-                            </div>
-
-                            <div class="section-title">
-                                <h2></h2>
-                            </div>
+                                <div id="k2ModuleBox231" class="k2ItemsBlock">
 
 
-                            <div class="col-lg-4 col-sm-4 item ">
-                                <div class="catItemView blog-box groupLeading">
-                                    <div class="blg-img-box" style="width: 90%; height: auto;">
-                                        <a href="/ouzhouzhongxinbieshu.html"> <img
-                                                src="images/fangchanjieshao/ouzhouzhongxinbieshu/ouzhouzhongxinbieshu.png"
-                                                alt="投资与移民交流活动" style="width: 100%; height: auto;">
-                                        </a> 
-                                    </div>
-                                    <div class="editions-legend clearfix" style="width: 90%; height: auto;">
-                                        <a href="/ouzhouzhongxinbieshu.html">欧洲中心别墅</a>
-                                    </div>
-                                    <div class="clr"></div>
+                                    <ul>
+                                        <li class="even lastItem">
+                                            <!-- Plugins: BeforeDisplay --> <!-- K2 Plugins: K2BeforeDisplay -->
+
+                                            <!-- Plugins: AfterDisplayTitle --> <!-- K2 Plugins: K2AfterDisplayTitle -->
+
+                                            <!-- Plugins: BeforeDisplayContent --> <!-- K2 Plugins: K2BeforeDisplayContent -->
+
+                                            <div class="container">
+
+                                                <center>  </center>
+
+                                                <h1 style="font-size: 35px;line-height: 1.5em">奥莱-EBS投资管理有限公司</h1>
+                                            </div>
+
+
+                                            <div class="clr"></div>
+
+                                            <div class="moduleItemVideo">
+                                                <span class="moduleItemVideoCaption"></span> <span
+                                                    class="moduleItemVideoCredits"></span>
+                                            </div>
+
+                                            <div class="clr"></div> <!-- Plugins: AfterDisplayContent -->
+
+                                            <!-- K2 Plugins: K2AfterDisplayContent --> <!-- Plugins: AfterDisplay -->
+
+                                            <!-- K2 Plugins: K2AfterDisplay -->
+
+                                            <div class="clr"></div>
+                                        </li>
+                                        <li class="clearList"></li>
+                                    </ul>
+
                                 </div>
-                            </div>
-
-                            <div class="col-lg-4 col-sm-4 item ">
-                                <div class="catItemView blog-box groupLeading">
-                                    <div class="blg-img-box" style="width: 90%; height: auto;">
-                                        <a href="/luomajinjiaohaozhai.html"> <img
-                                                src="images/fangchanjieshao/luomajinjiaohaozhai/luomajinjiaohaozhai.png"
-                                                alt="" style="width: 100%; height: auto;">
-                                        </a>
-
-                                    </div>
-
-                                    <div class="editions-legend clearfix" style="width: 90%; height: auto;">
-                                        <a href="/luomajinjiaohaozhai.html">罗马近郊豪宅</a>
-                                    </div>
-
-                                    <div class="clr"></div>
-                                </div>
-                            </div>
-                                <div class="col-lg-4 col-sm-4 item ">
-                                    <div class="catItemView blog-box groupLeading">
-                                        <div class="blg-img-box" style="width: 90%; height: auto;">
-                                            <a href="/luomahongyanqu.html"><img
-                                                    src="images/fangchanjieshao/luomahongyanqu/luomahongyanqu.jpg"
-                                                    alt="投资与移民交流活动" style="width: 100%; height: auto;">
-                                            </a>
-                                        </div>
-                                        <div class="editions-legend clearfix" style="width: 90%; height: auto;">
-                                            <a href="/luomahongyanqu.html">罗马红岩区别墅</a>
-                                        </div>
-                                        <div class="clr"></div>
-                                    </div>
-                                </div>
-                            
-                                <div class="col-lg-4 col-sm-4 item ">
-                                    <div class="catItemView blog-box groupLeading">
-                                        <div class="blg-img-box" style="width: 90%; height: auto;">
-                                            <a href="/luomahongyanqu.html"><img
-                                                    src="images/mainPageEventGallery/main_page_4.jpg"
-                                                    alt="投资与移民交流活动" style="width: 100%; height: auto;">
-                                            </a>
-                                        </div>
-                                        <div class="editions-legend clearfix" style="width: 90%; height: auto;">
-                                            <a href="/luoma2.html">金山别墅</a>
-                                        </div>
-                                        <div class="clr"></div>
-                                    </div>
-                                </div>
-
-                        </div>
-                    </div>
-                </div>
-
-                <!----milan---->
-
-                <div class="">
-                    <div class="st-divider " style="padding: 20px 0; border: none;"></div>
-                    <div class="container-grey">
-
-                        <div class="container">
-                            <div class="row portfolio-box">
-
-                                <div class="section-title-text">
-                                    <h2 style="margin-top: 30px;  margin-bottom: 10px; font-size: 42px;">米兰
-                                        <span>米兰的房产信息
-                                        </span>
-                                    </h2>
-                                </div>
-
-                                <div class="section-title">
-                                    <h2></h2>
-                                </div>
-
-
-                                <div class="col-lg-4 col-sm-4 item ">
-                                    <div class="catItemView blog-box groupLeading">
-                                        <div class="blg-img-box" style="width: 90%; height: 90%;">
-                                            <a href="/ouzhouzhongxinbieshu.html"> 
-                                                <img
-                                                    src="images/mainPageEventGallery/main_page_4.jpg"
-                                                    alt="投资与移民交流活动" style="width: 100%; height: 90%;">
-                                            </a> 
-                                        </div>
-                                        <div class="editions-legend clearfix" style="width: 90%; height: 90%;">
-                                            <a href="/milan1.html">米兰中心别墅</a>
-                                        </div>
-                                        <div class="clr"></div>
-                                    </div>
-                                </div>
-
-                                <div class="col-lg-4 col-sm-4 item ">
-                                    <div class="catItemView blog-box groupLeading">
-                                        <div class="blg-img-box" style="width: 90%; height: auto;">
-                                            <a href="/luomajinjiaohaozhai.html"> <img
-                                                    src="images/mainPageEventGallery/main_page_4.jpg"
-                                                    alt="" style="width: 100%; height: auto;">
-                                            </a>
-
-                                        </div>
-
-                                        <div class="editions-legend clearfix" style="width: 90%; height: auto;">
-                                            <a href="/milan2.html">米兰Loft别墅</a>
-                                        </div>
-
-                                        <div class="clr"></div>
-                                    </div>
-                                </div>
-
-
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <!----firenze---->
+                <!----Three coloum foto text below banner---->
 
-
-
-
-
+            
             </div>
-
+            <center>
+                <p style="margin: 20px; font-size: 42px" id="founder-hover">&nbsp;</p>
+            </center>
 
         </div>
 
@@ -699,8 +497,8 @@ and open the template in the editor.
                                                             <div class="moduleItemIntrotext">
 
                                                                 <p>©2014 AOLAI-EBS<span style="line-height: 1.3em;"> </span></p>
-
-
+                                                                 
+                                                                 
                                                                 <p><span style="line-height: 1.3em;"></span></p>
                                                                 <p><span style="line-height: 1.3em;">技术支持：史磊</span></p>
 
@@ -713,6 +511,13 @@ and open the template in the editor.
                                                                 <!-- Plugins: AfterDisplayContent -->
 
                                                                 <!-- K2 Plugins: K2AfterDisplayContent -->
+
+
+
+
+
+
+
 
                                                                 <!-- Plugins: AfterDisplay -->
 
@@ -741,6 +546,86 @@ and open the template in the editor.
         <div class="custom"  >
             <div><a class="scrollup" href="#"><i class="icon-angle-up"></i></a></div></div>
 
+
+        <script src="media/system/js/mootools-core.js" type="text/javascript"></script>
+        <script src="media/system/js/core.js" type="text/javascript"></script>
+
+        <script src="templates/boxme/js/responsive-nav.min.js"
+        type="text/javascript"></script>
+        <script src="templates/boxme/js/main.js" type="text/javascript"></script>
+
+        <script src="templates/boxme/js/camera.min.js" type="text/javascript"></script>
+        <script src="components/com_k2/js/k2.js?v2.6.7&amp;sitepath=/"
+        type="text/javascript"></script>
+        <script src="media/system/js/mootools-more.js" type="text/javascript"></script>
+        <script src="templates/boxme/js/vendor/bootstrap.min.js"
+        type="text/javascript"></script>
+        <script src="templates/boxme/js/retina-1.1.0.min.js"
+        type="text/javascript"></script>
+        <script src="templates/boxme/js/hoverIntent.js" type="text/javascript"></script>
+        <script src="templates/boxme/js/superfish.min.js" type="text/javascript"></script>
+        <script src="templates/boxme/js/supersubs.js" type="text/javascript"></script>
+        <!--[animation]-->
+        <script
+            src="templates/boxme/js/main_1420213682874.js"
+        type="text/javascript"></script>
+        <!--[filte isotope.pkgd.min.js]-->
+        <script src ="js/isotope.pkgd.min.js" type="text/javascript"></script>
+        <script src="templates/boxme/js/jquery.smint.js" type="text/javascript"></script>
+        <script src="http://maps.google.com/maps/api/js?sensor=true"
+        type="text/javascript"></script>
+
+
+
+
+        <script src="templates/boxme/js/jquery.easing.1.3.js"
+        type="text/javascript"></script>
+
+        <script src="templates/boxme/js/jquery.kwicks.min.js"
+        type="text/javascript"></script>
+
+        <script
+            src="media/com_uniterevolution/assets/rs-plugin/js/jquery.themepunch.plugins.min.js"
+        type="text/javascript"></script>
+        <script
+            src="media/com_uniterevolution/assets/rs-plugin/js/jquery.themepunch.revolution.min.js"
+        type="text/javascript"></script>
+
+
+
+
+
+
+        <script src="plugins/system/shinetheme/assets/js/jquery.ui.map.min.js"
+        type="text/javascript"></script>
+        <script src="plugins/system/shinetheme/assets/js/jquery.validate.js"
+        type="text/javascript"></script>
+        <script src="templates/boxme/js/jquery.parallax-1.1.3.js"
+        type="text/javascript"></script>
+        <script src="templates/boxme/js/jquery.isotope.min.js"
+        type="text/javascript"></script>
+        <script src="templates/boxme/js/excanvas.js" type="text/javascript"></script>
+        <script src="templates/boxme/js/jquery.easy-pie-chart.js"
+        type="text/javascript"></script>
+
+
+
+        <script src="templates/boxme/js/jquery.carouFredSel.js"
+        type="text/javascript"></script>
+        <script src="templates/boxme/js/jquery.prettyPhoto.js"
+        type="text/javascript"></script>
+
+
+        <script src="templates/boxme/js/jquery.eislideshow.js"
+        type="text/javascript"></script>
+
+        <!-- slid js -->
+        <script src="templates/boxme/js/jquery.flexslider-min.js"
+        type="text/javascript"></script>
+        <script src="templates/boxme/js/jquery.nivo.slider.pack.js"
+        type="text/javascript"></script>
+
+        <script src="media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
 
 
 
