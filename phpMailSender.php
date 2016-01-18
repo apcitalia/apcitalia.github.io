@@ -13,11 +13,11 @@
   // 2 = messages only
 
 
-  $mail->SetFrom('ebs.center@hotmail.com', 'AOLAI-EBS italia'); // FROM
-  $mail->AddReplyTo('acpitaly@gmail.com', 'AOLAI-EBS'); // Reply TO
+  $mail->SetFrom('apcitalia@hotmail.com', 'apci italia'); // FROM
+  $mail->AddReplyTo('acpitaly@gmail.com', 'APCI'); // Reply TO
 
 
-  $mail->Subject = "AOLAI-EBS Registration Mail";
+  $mail->Subject = "APCI Registration Mail";
 
   $mail->Body = $message;
   $mail->AltBody    = "To view the message, please use an HTML compatible email viewer!"; // optional, comment out and test
@@ -47,7 +47,7 @@ $mail = new PHPMailer();
 $mail->IsSMTP();  // telling the class to use SMTP
 $mail->Host = "smtp.hotmail.com"; // SMTP server
 
-$mail->From = "ebs.center@hotmail.com";
+$mail->From = "apcitalia@hotmail.com";
 $mail->AddAddress("acpitaly@gmail.com");
 
 $mail->Subject = "An HTML Message";
@@ -68,7 +68,7 @@ $mail = new PHPMailer();
 $mail->IsSMTP();  // diciamo alla classe di usare SMTP
 $mail->Host     = "smtp.hotmail.com"; // SMTP server, questo valore è da modificare!
  
-$mail->From     = "ebs.center@hotmail.com"; // L'account email che state utilizzando
+$mail->From     = "apcitalia@hotmail.com"; // L'account email che state utilizzando
 $mail->AddAddress("acpitaly@gmail.com"); // L'indirizzo email di destinazione
  
 $mail->Subject  = "First PHPMailer Message"; // L'oggetto della email

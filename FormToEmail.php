@@ -97,7 +97,7 @@ error_reporting(E_ALL ^ E_NOTICE);
 
  */
 
-$my_email = "itshilei@gmail.com,ebs.center@hotmail.com";
+$my_email = "itshilei@gmail.com,apcitalia@hotmail.com";
 
 /*
 
@@ -115,7 +115,7 @@ $from_email = "";
 
  */
 
-$continue = "http://www.AOLAI-EBS-italia.it";
+$continue = "http://www.apci-italia.it";
 
 /*
 
@@ -174,7 +174,7 @@ if (isset($_REQUEST['email']) && !empty($_REQUEST['email'])) {
 // Check referrer is from same site.
 
 if (!(isset($_SERVER['HTTP_REFERER']) && !empty($_SERVER['HTTP_REFERER']) && stristr($_SERVER['HTTP_REFERER'], $_SERVER['HTTP_HOST']))) {
-    $errors[] = "要自动发送申请，请开启自动跳转！（如无法开启，请直接发邮件至 ebs.center@hotmail.com 谢谢！）";
+    $errors[] = "要自动发送申请，请开启自动跳转！（如无法开启，请直接发邮件至 apcitalia@hotmail.com 谢谢！）";
 }
 
 // Check for a blank form.

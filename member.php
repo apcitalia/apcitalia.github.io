@@ -4,7 +4,7 @@
       xmlns="http://www.w3.org/1999/xhtml" xml:lang="it-it" lang="it-it"
       dir="ltr">
     <head>
-        <title>奥莱-EBS投资管理有限公司</title>
+        <title>意大利华人华侨专业人士协会</title>
 
         <meta name="viewport"
               content="width=device-width, initial-scale=1, maximum-scale=1" />
@@ -13,30 +13,30 @@
         <meta name="keywords"
               content="startup, start, up, innovation, innovazione, investitori, imprenditoria, imprenditore, idea, corso, pitch" />
         <meta name="description"
-              content="奥莱-EBS投资管理有限公司 " />
+              content="意大利华人华侨专业人士协会 " />
         <meta name="generator"
               content="Joomla! - Open Source Content Management" />
 
 
         <!-- metadata -->
         <!-- Schema.org markup for Google+ -->
-        <meta itemprop="name" content="奥莱-EBS投资管理有限公司"/>
-        <meta itemprop="description" content="奥莱-EBS投资管理有限公司 "/>
+        <meta itemprop="name" content="意大利华人华侨专业人士协会"/>
+        <meta itemprop="description" content="意大利华人华侨专业人士协会 "/>
         <meta itemprop="image" content="/logo.jpg"/>
         <!-- Twitter Card data -->
         <meta name="twitter:card" content="summary"/>
-        <meta name="twitter:creator" content="http://www.aolai-ebs.com/"/>
-        <meta name="twitter:url" content="http://www.aolai-ebs.com/"/>
-        <meta name="twitter:title" content="奥莱-EBS投资管理有限公司"/>
-        <meta name="twitter:description"  content="奥莱-EBS投资管理有限公司 "/>
+        <meta name="twitter:creator" content="http://www.apci-italia.it/"/>
+        <meta name="twitter:url" content="http://www.apci-italia.it/"/>
+        <meta name="twitter:title" content="意大利华人华侨专业人士协会"/>
+        <meta name="twitter:description"  content="意大利华人华侨专业人士协会 "/>
         <meta name="twitter:image" content="/logo.jpg"/>
         <!-- Open Graph data -->
         <meta property="og:locale" content="it_IT" />
         <meta property="og:type" content="article" />
-        <meta property="og:title" content="奥莱-EBS投资管理有限公司" />
-        <meta property="og:description" content="奥莱-EBS投资管理有限公司 " />
+        <meta property="og:title" content="意大利华人华侨专业人士协会" />
+        <meta property="og:description" content="意大利华人华侨专业人士协会 " />
         <meta property="og:image" content="/logo.jpg" />
-        <meta property="og:url" content="http://www.aolai-ebs.com/" />
+        <meta property="og:url" content="http://www.apci-italia.it/" />
 
 
 
@@ -202,25 +202,25 @@
 
                                 <ul class="dmt-social-links dmt-icons-16">
                                     <li class="facebook"><a title="Facebook" rel="me nofollow"
-                                                            href="http://www.aolai-ebs.com/" target="_blank">
+                                                            href="http://www.apci-italia.it/" target="_blank">
                                             <img src="modules/mod_dmt_social/icons/facebook_16.png" alt="" />
                                         </a></li>
                                     <li class="twitter"><a title="Twitter" rel="me nofollow"
-                                                           href="http://www.aolai-ebs.com/" target="_blank"> <img
+                                                           href="http://www.apci-italia.it/" target="_blank"> <img
                                                 src="modules/mod_dmt_social/icons/twitter_16.png" alt="" />
                                         </a></li>
                                     <li class="google_wave"><a title="Google+" rel="me nofollow"
-                                                               href="http://www.aolai-ebs.com/"
+                                                               href="http://www.apci-italia.it/"
                                                                target="_blank"> <img
                                                 src="modules/mod_dmt_social/icons/google_wave_16.png" alt="" />
                                         </a></li>
                                     <li class="linkedin"><a title="LinkedIn" rel="me nofollow"
-                                                            href="http://www.aolai-ebs.com/"
+                                                            href="http://www.apci-italia.it/"
                                                             target="_blank"> <img
                                                 src="modules/mod_dmt_social/icons/linkedin_16.png" alt="" />
                                         </a></li>
                                     <li class="youtube"><a title="YouTube" rel="me nofollow"
-                                                           href="http://www.aolai-ebs.com/"
+                                                           href="http://www.apci-italia.it/"
                                                            target="_blank"> <img
                                                 src="modules/mod_dmt_social/icons/youtube_16.png" alt="" />
                                         </a></li>
@@ -508,17 +508,17 @@
                     <div class="col-lg-6 col-sm-6 item 2011">
                         <!-- Background -->
                         <div class="article-container ">
-                            <a href="" target="_blank" alt="麻军"> 
+                            <a href="" target="_blank" alt="刘金权"> 
                                 <!-- Immagine -->
                                 <div class="col-lg-4 testimonial-right-column">
                                     <div class="testimonial-image-container">
-                                        <img src="images/founder/liujinquan.jpg" alt="麻军" class="testimonial-image"/> 
+                                        <img src="images/founder/liujinquan.jpg" alt="刘金权" class="testimonial-image"/> 
                                     </div>
                                 </div>
                                 <div class="col-lg-8 col-sm-8 testimonial-content">
                                     <!-- Titolo -->
                                     <div>
-                                        <p class="testimonial-title testimonial-text-align">麻军</p>
+                                        <p class="testimonial-title testimonial-text-align">刘金权</p>
                                     </div>
                                     <!--Linea di separazione --> 
                                     <div class="article-separator"></div>
@@ -538,11 +538,11 @@
                     <div class="col-lg-6 col-sm-6 item 2014">
                         <!-- Background -->
                         <div class="article-container ">
-                            <a href="" target="_blank" alt="麻军"> 
+                            <a href="" target="_blank" alt="刘金权"> 
                                 <!-- Immagine -->
                                 <div class="col-lg-4 testimonial-right-column">
                                     <div class="testimonial-image-container">
-                                        <img src="images/founder/liujinquan.jpg" alt="麻军" class="testimonial-image"/> 
+                                        <img src="images/founder/liujinquan.jpg" alt="刘金权" class="testimonial-image"/> 
                                     </div>
                                 </div>
                                 <div class="col-lg-8 col-sm-8 testimonial-content">

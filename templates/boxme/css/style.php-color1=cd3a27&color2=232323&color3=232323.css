@@ -1,0 +1,47 @@
+
+.blg-img-box .mask,.prtf-itm .mask,.prtfl-list li:hover .mask{
+  background-color: rgba(205,58,39, 0.5);
+}
+.important-text,.color-background1,.underline,.sidebar-underline,.page-404 a,.site-menu a:hover,.site-menu a.active,
+.site-menu li:hover,  .site-menu li.site-menuHover,.site-menu li.active>a,.site-menu li.active>span,.tab-style1 li a:hover,
+.tab-style1 li:hover,.tab-style1 li.active,tab-style3 li a:hover,tab-style3 li:hover,.tab-style3 li.active,.prtfl-list-controller li a,
+#sub-bar,.footer-submit,.alt-date-box,.price,.subscribe-form input.send,.progress-bar,.active .plus-box,.box-circle,.service-style-4 i,
+.sidebar-blg-cmmnt,.blog-date-box,.blog-list-icon i,.form-button,.portfolio-filters ul li a:hover,.portfolio-filters ul li a.active,
+.contact-input-area .form-button,.contact-social li a:hover,.button-style-1,.dropcap-style1:first-letter,.dropcap-style2:first-letter,
+.rev-button a,.ei-slider-thumbs li.ei-slider-element,.ei-slider-thumbs li a:hover,#component .k2Pagination ul li.active,
+#component .k2Pagination ul li.disabled,#component .k2Pagination ul li:hover,#component .pagination ul li.active,
+#component .pagination ul li.disabled,#component .pagination ul li:hover
+{
+  background-color:#cd3a27;
+}
+.submit-comment,.quote-style2{
+  background-color:#cd3a27!important;
+}
+
+#breadcrumb a:hover,#breadcrumb-parallax a:hover,.color-text,.section-title,.search-results a,.text-404,.info-icon,.info a,
+.bq-style1 span,.tab-style2 li a:hover,.head-social-box a,.tab-style2 li.active a,tab-style3 li i,.tab-text i,#latest-blog-posts a,
+.pagination a.selected:before,.active h4 a,.about-title,.service-style-2 a,.service-style-3 i,.sidebar h3,.sidebar a:hover,
+.blg-txt a,.blog-box a,.post-tag-area p,.post-author-box a,.blog-info-list a,.comment-box h4,.comment-box h4 a,.portfolio-info-box div,
+.portfolio-info-box a:hover,.project-details h5,.divider i,.faq-filters li a:hover,.faq-filters li a.active,.list-style li a:hover,.list-style li a.active,.rev-bold-title,.rev-mbold-title,.prt-lnk-wrppr a:hover,.tp-caption.rev-bold-title,.tp-caption.rev-mbold-title
+{
+  color:#cd3a27;
+}
+
+#component .k2Pagination ul li,
+#component .pagination ul li{
+  border-color:#cd3a27;
+}
+.tab-style1 li.active:after,.tab-style1 li:hover:after{
+  border-left-color:#cd3a27;
+}
+
+.prt-lnk-wrppr a{
+  color:#fff;
+}
+
+#footer,#footer-last{
+  background-color:#232323;
+}
+.site-menu ul li,  .site-menu ul ul li{
+  background-color:#232323;
+}
